@@ -1,9 +1,9 @@
-# 📚 Course Title: PySpark with Python: Advanced Concepts and Practical Applications (Total Hours: 60)
+# 📚 PySpark with Python: Advanced Concepts and Practical Applications (Total Hours: 60)
 
-## 📌 Course Description:
+## 📌 Description:
 Embark on an advanced exploration of PySpark, the powerful Python library for Apache Spark, designed to solve complex data processing and analysis tasks. Delve into the fundamentals of distributed computing, acquire expertise in key PySpark libraries, and apply your learning to real-world projects. The curriculum covers comprehensive topics such as data processing, transformation, querying using DataFrames and SQL, machine learning, and graph processing with PySpark.
 
-## 📝 Course Outline:
+## 📝 Outline:
 
 ### 🔹 Part 1: 🚀 Introduction to Apache Spark and PySpark (5 hours)
 - Uncover the principles and applications of Apache Spark 🌍
